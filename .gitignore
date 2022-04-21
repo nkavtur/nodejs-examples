@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# eclipse
+.classpath
+.project
+.settings
+
+.DS_Store
+.sass-cache
+dist/
+reports/
+node_modules/
+npm-debug.log
